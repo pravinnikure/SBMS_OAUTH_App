@@ -3,7 +3,7 @@ spring:
     oauth2:
       client:
         registration:
-          #facebook:
+          #facebook: 
             #client-id : 1061540851955528 
             #client-secret : aa47c72d9d97432c49bb6391201aeb65 
           google:
